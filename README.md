@@ -9,6 +9,8 @@ toward the space industry, but anything that serves people gets me excited! (e.g
 - **Hardware/Embedded:** PCB Design, Microcontrollers, SPI/I²C/UART, Sensor Integration
 - **Robotics & Control**: FSMs, Motion Planning, Feedback Systems, Sensor Fusion
 
+If it's mission-critical, I'll make it happen.
+
 ## What I'm up to right now
 Currently, I'm designing and integrating sensors for the [UCI Rocket Project's](https://www.rocket.eng.uci.edu/liquids/) DAQ system to quantify the thrust strength 
 of a methalox rocket engine and characterize recovery-parachute drag.
