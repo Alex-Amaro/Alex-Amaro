@@ -5,7 +5,7 @@ impact. My ultimate goal's to create tech that'll enable us starside, while empo
 toward the space industry, but anything that serves people gets me excited! ([See my last internship](https://cfd.life/en/)).
 
 ## Technical Skills
-- **Programming:** C/C++, Python, C#
+- **Programming:** C/C++, C#, Python
 - **Hardware/Embedded:** PCB Design, Microcontrollers, SPI/I²C/UART, Sensor Integration
 - **Robotics & Control**: FSMs, Motion Planning, Feedback Systems, Sensor Fusion
 
