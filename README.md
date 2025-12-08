@@ -19,4 +19,4 @@ system, enabling load-cell-based measurement of methalox rocket engine thrust an
 Don't hesitate to reach out at alex1@uci.edu, I'm always down to chat :]
 
 
-***Ad astra, always and forever*** ✨
+***Ad astra, always and forever*** ✨✨
