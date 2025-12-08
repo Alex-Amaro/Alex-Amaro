@@ -6,7 +6,7 @@ toward the space industry, but anything that serves people gets me excited! (e.g
 
 ## Technical Skills
 - **Programming:** C/C++, C#, Python
-- **Hardware/Embedded:** PCB Design, Microcontrollers, SPI/I²C/UART, Sensor Integration
+- **Hardware/Embedded:** PCB Design, Microcontrollers, ADC, SPI/I²C/UART, Sensor Integration
 - **Robotics & Control**: FSMs, Motion Planning, Feedback Systems, Sensor Fusion
 
 If it's mission-critical, I'll make it happen.
