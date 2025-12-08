@@ -10,8 +10,8 @@ toward the space industry, but anything that serves people gets me excited! ([Se
 - **Robotics & Control**: FSMs, Motion Planning, Feedback Systems, Sensor Fusion
 
 ## What I'm up to right now
-Currently, I'm designing and integrating sensors for a DAQ system to quantify the thrust strength 
-of a methalox rocket engine for the [UCI Rocket Project](https://www.rocket.eng.uci.edu/liquids/)
+Currently, I'm designing and integrating sensors for the [UCI Rocket Project's](https://www.rocket.eng.uci.edu/liquids/) DAQ system to quantify the thrust strength 
+of a methalox rocket engine and characterize recovery-parachute drag.
 
 ## Reach out to me!
 You can reach me at alex1@uci.edu
