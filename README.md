@@ -4,7 +4,7 @@ I'm a Computer Engineering student (Class of '28) at UC Irvine obsessed with the
 
 ## Technical Skills
 - **Programming:** C/C++, C#, Python, Unity Engine
-- **Hardware/Embedded:** PCB Design, Microcontrollers, ADC, SPI/I²C/UART, Sensor Integration
+- **Hardware/Embedded:** PCB Design, Microcontrollers (STM32), ADC, SPI/I²C/UART, Sensor Integration
 - **Robotics & Control**: Finite State Machines, Feedback Systems, Sensor Fusion,  Motion Planning
 
 If it's mission-critical, I'll make it happen.
