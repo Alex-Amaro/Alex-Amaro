@@ -23,7 +23,7 @@ Stay tuned ;]
 
 ## What I _was_ up to
 This fall quarter I designed a mixed-signal ADC PCB for the [UCI Rocket Project's](https://www.rocket.eng.uci.edu/liquids/) DAQ 
-system. Upon integration this winter, it'll enable load cell measurement of methalox-rocket-engine thrust and recovery-parachute drag.
+system. Upon PCBA and integration this winter, it'll enable load cell measurement of methalox-rocket-engine thrust and recovery-parachute drag.
 Can't wait to see our propulsion and launch vehicle engineers nerd out over all the data. Check out my progress [here](https://github.com/UCI-Rocket-Project/rocket2-loadcell2.0-hardware). 
 
 The board's inspired by a legacy design, it's got:
