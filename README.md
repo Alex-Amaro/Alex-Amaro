@@ -10,7 +10,7 @@ I'm a Computer Engineering student (Class of '28) at UC Irvine obsessed with the
 If it's mission-critical, I'll make it happen.
 
 ## What I'm _currently_ up to
-I'm spending winter break working on a self-balancing robot to level up my skills in:
+Beyond spending time with familia and friends, I'm spending this winter break working on a self-balancing robot to level up my skills in:
 - Electrical Circuits
 - Signals & Systems
 - DSP
