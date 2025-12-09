@@ -3,9 +3,9 @@
 I'm a Computer Engineering student (Class of '28) at UC Irvine obsessed with the intersection of software, hardware, autonomy, and human impact. My ultimate goal's to create tech that'll enable us starside, while empowering our lives earthside. I'm vectored toward the space industry, but anything that serves people gets me excited! During my last internship in Japan, I tackled congenital heart diseases with computational fluid dynamics at [Cardio Flow Design](https://cfd.life/en/).
 
 ## Technical Skills
-- **Programming:** C/C++, C#, Python, Unity Engine
-- **Hardware/Embedded:** PCB Design, Microcontrollers (STM32), ADC, SPI/I²C/UART, Sensor Integration
-- **Robotics & Control**: Finite State Machines, Feedback Systems, Sensor Fusion,  Motion Planning
+- **Programming:** C/C++, C#, Python, STM32 HAL Drivers, Unity Engine
+- **Hardware/Embedded:** PCB Design & Debugging, MCUs (STM32), ADC, SPI/I²C/UART, Actuators / Sensors (e.g., IMUs, Motors)
+- **Robotics & Control**: Finite State Machines, Sensor Fusion, Motion Planning
 
 If it's mission-critical, I'll make it happen.
 
