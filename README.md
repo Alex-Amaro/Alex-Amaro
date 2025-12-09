@@ -10,13 +10,13 @@ I'm a Computer Engineering student (Class of '28) at UC Irvine obsessed with the
 If it's mission-critical, I'll make it happen.
 
 ## What I'm _currently_ up to
-Beyond spending time with familia and friends, I'm spending this winter break working on a self-balancing robot to level up my skills in:
+Beyond spending time with familia and friends, I'm spending my winter break working on a self-balancing robot to level up my skills in:
 - Electrical Circuits
 - Signals & Systems
 - DSP
 - Control Systems (and sensor fusion, my beloved~)
 
-I might make this another _battlebot_ depending on how cute it turns out - cute bots must go straight to the battlefield! 😈
+Might make this another _battlebot_ depending on how cute it turns out - cute bots must go straight to the battlefield! 😈
 
 Stay tuned ;]
 
