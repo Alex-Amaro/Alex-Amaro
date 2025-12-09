@@ -11,6 +11,7 @@ If it's mission-critical, I'll make it happen.
 
 ## What I'm _currently_ up to
 Beyond spending time with familia and friends, I'm spending my winter break working on a self-balancing robot to level up my skills in:
+- Programming
 - Electrical Circuits
 - Signals & Systems
 - DSP
