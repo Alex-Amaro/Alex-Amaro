@@ -35,7 +35,7 @@ The board's inspired by a legacy design, it's got:
 ## Reach out to me!
 Don't hesitate to reach out at alex1@uci.edu, I'm always down to chat :]
 
-Otherwise, you can also hit me up on Discord under the tag sharkiebyte (I've had that username since I was 6 years old :p)
+Otherwise, you can also hit me up on Discord under the tag sharkiebyte (fun fact: I've had that username since I was 6 years old :p)
 
 
 ***Ad astra, always and forever*** ✨✨
