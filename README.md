@@ -9,12 +9,32 @@ I'm a Computer Engineering student (Class of '28) at UC Irvine obsessed with the
 
 If it's mission-critical, I'll make it happen.
 
-## What I'm up to right now
-Currently, I'm integrating a mixed-signal ADC PCB I designed this fall for the [UCI Rocket Project's](https://www.rocket.eng.uci.edu/liquids/) DAQ 
-system, enabling load-cell-based measurement of methalox rocket engine thrust and recovery-parachute drag. Check out my progress [here](https://github.com/UCI-Rocket-Project/rocket2-loadcell2.0-hardware).
+## What I'm _currently_ up to
+I'm spending winter break working on a self-balancing robot to level up my skills in:
+- Electrical Circuits
+- Signals & Systems
+- DSP
+- Control Systems (and sensor fusion, my beloved~)
+
+I might make this another _battlebot_ depending on how cute it turns out - cute bots must go straight to the battlefield! 😈
+
+Stay tuned ;]
+
+## What I _was_ up to
+This fall quarter I designed a mixed-signal ADC PCB for the [UCI Rocket Project's](https://www.rocket.eng.uci.edu/liquids/) DAQ 
+system. Upon integration this winter, it'll enable load cell measurement of methalox-rocket-engine thrust and recovery-parachute drag.
+Can't wait to see our propulsion and launch vehicle engineers nerd out over all the data. Check out my progress [here](https://github.com/UCI-Rocket-Project/rocket2-loadcell2.0-hardware). 
+
+The board's inspired by a legacy design, it's got:
+- Improved Hardware-level Noise Filtering
+- Interfaces for Easier Accessibility (e.g., USB & Ethernet)
+- Reduced e-footprint (~lowered cost 10%)
+- "Cool aesthetic" (or so I've been told lol, would love to hear your thoughts)
 
 ## Reach out to me!
 Don't hesitate to reach out at alex1@uci.edu, I'm always down to chat :]
+
+Otherwise, you can also hit me up on Discord under the tag sharkiebyte (I've had that username since I was 6 years old :p)
 
 
 ***Ad astra, always and forever*** ✨✨
