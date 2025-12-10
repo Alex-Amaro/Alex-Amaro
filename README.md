@@ -9,8 +9,6 @@ I'm a Computer Engineering student (Class of '28) at UC Irvine obsessed with the
 
 If it's mission-critical, I'll make it happen.
 
-Stay tuned ;]
-
 ## What I _was_ up to
 This fall quarter I designed a mixed-signal ADC PCB for the [UCI Rocket Project's](https://www.rocket.eng.uci.edu/liquids/) DAQ 
 system. Upon PCBA and integration this winter, it'll enable enhanced load cell measurement of methalox rocket-engine thrust and recovery-parachute drag.
@@ -31,6 +29,8 @@ Beyond spending time with familia and friends, I'm spending my winter break work
 - Control Systems (and sensor fusion, my beloved~)
 
 Might turn this into another _battlebot_—my cutest gremlins go straight to the battlefield! 😈
+
+Stay tuned ;]
 
 ## Reach out to me!
 Don't hesitate to reach out at alex1@uci.edu, I'm always down to chat :]
