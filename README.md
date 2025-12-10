@@ -9,16 +9,6 @@ I'm a Computer Engineering student (Class of '28) at UC Irvine obsessed with the
 
 If it's mission-critical, I'll make it happen.
 
-## What I'm _currently_ up to
-Beyond spending time with familia and friends, I'm spending my winter break working on a self-balancing robot to level up my skills in:
-- Programming
-- Electrical Circuits
-- Signals & Systems
-- DSP
-- Control Systems (and sensor fusion, my beloved~)
-
-Might turn this into another _battlebot_—my cutest gremlins go straight to the battlefield! 😈
-
 Stay tuned ;]
 
 ## What I _was_ up to
@@ -31,6 +21,16 @@ The board's inspired by a legacy design, it's got:
 - Interfaces for Easier Accessibility (e.g., USB & Ethernet)
 - Reduced e-footprint (~lowered cost 10%)
 - "Cool aesthetic" (haha so I've been told, would love to hear your thoughts!)
+
+## What I'm _currently_ up to
+Beyond spending time with familia and friends, I'm spending my winter break working on a self-balancing robot to level up my skills in:
+- Programming
+- Electrical Circuits
+- Signals & Systems
+- DSP
+- Control Systems (and sensor fusion, my beloved~)
+
+Might turn this into another _battlebot_—my cutest gremlins go straight to the battlefield! 😈
 
 ## Reach out to me!
 Don't hesitate to reach out at alex1@uci.edu, I'm always down to chat :]
