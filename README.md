@@ -24,7 +24,7 @@ The board's inspired by a legacy design, it's got:
 
 ## What I'm _currently_ up to
 Beyond spending time with familia and friends, I'm spending my winter break working on a self-balancing robot to level up my skills in:
-- Programming
+- Firmware
 - Electrical Circuits
 - Signals & Systems
 - DSP
