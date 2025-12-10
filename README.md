@@ -13,13 +13,13 @@ Stay tuned ;]
 
 ## What I _was_ up to
 This fall quarter I designed a mixed-signal ADC PCB for the [UCI Rocket Project's](https://www.rocket.eng.uci.edu/liquids/) DAQ 
-system. Upon PCBA and integration this winter, it'll enable enhanced load cell measurement of methalox-rocket-engine thrust and recovery-parachute drag.
+system. Upon PCBA and integration this winter, it'll enable enhanced load cell measurement of methalox rocket-engine thrust and recovery-parachute drag.
 Can't wait to see our propulsion and launch vehicle engineers nerd out over all the data. Check out my progress [here](https://github.com/UCI-Rocket-Project/rocket2-loadcell2.0-hardware). 
 
-The board's inspired by a legacy design, it's got:
+The board's inspired by a legacy design. It's got:
 - Improved Hardware-level Noise Filtering
 - Interfaces for Easier Accessibility (e.g., USB & Ethernet)
-- Reduced e-footprint (~lowered cost 10%)
+- Reduced e-footprint (~10% lower cost)
 - "Cool aesthetic" (haha so I've been told, would love to hear your thoughts!)
 
 ## What I'm _currently_ up to
@@ -27,7 +27,7 @@ Beyond spending time with familia and friends, I'm spending my winter break work
 - Firmware
 - Electrical Circuits
 - Signals & Systems
-- DSP
+- Digital Signal Processing (DSP!⚡)
 - Control Systems (and sensor fusion, my beloved~)
 
 Might turn this into another _battlebot_—my cutest gremlins go straight to the battlefield! 😈
