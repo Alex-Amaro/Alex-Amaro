@@ -31,7 +31,7 @@ Beyond spending time with familia and friends, I'm spending my winter break work
 - Digital Signal Processing ⚡
 - Control Systems (and sensor fusion, my beloved)
 
-There's a nonzero chance this'll become a _battlebot_—I'm feeling a return to the arena 😈
+There's a nonzero chance this'll become a _battlebot_—I'm craving a return to the arena 😈
 
 Stay tuned ;]
 
