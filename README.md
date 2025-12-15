@@ -21,7 +21,7 @@ The board's inspired by a legacy design, and features:
 - Improved Hardware-level Noise Filtering
 - Interfaces for Easier Accessibility (e.g., USB & Ethernet)
 - Reduced e-footprint (~10% lower cost)
-- A "Cool aesthetic" (or so I've been told, would love to hear your thoughts!)
+- "Cool aesthetic" (or so I've been told, would love to hear your thoughts!)
 
 ## What I'm _currently_ up to
 Beyond spending time with familia and friends, I'm spending my winter break working on a self-balancing robot to level up my skills in:
@@ -37,7 +37,9 @@ Stay tuned ;]
 
 ## Reach out to me!
 Feel free to reach out, I'm always down to chat :]
-📧 alex1@uci.edu
+
+📧 Email: alex1@uci.edu
+
 💬 Discord: sharkiebyte (have had this username since I was 6 :p)
 
 
