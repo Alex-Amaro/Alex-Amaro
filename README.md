@@ -13,7 +13,7 @@ If it's mission-critical, I'll see it through.
 
 ## What I _was_ up to
 This fall, I designed a mixed-signal ADC PCB for the [UCI Rocket Project Liquids'](https://www.rocket.eng.uci.edu/liquids/) DAQ 
-system. Once assembled and integrated this winter, it'll enable high-precision load cell measurement for **methalox rocket-engine thrust** and **recovery-parachute drag**.
+system. Once assembled and integrated this winter, it'll enable high-precision load cell measurements of **methalox rocket-engine thrust** and **recovery-parachute drag**.
 
 You can follow the project [here](https://github.com/UCI-Rocket-Project/rocket2-loadcell2.0-hardware). 
 
