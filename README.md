@@ -40,7 +40,7 @@ Feel free to reach out, I'm always down to chat :]
 
 📧 Email: alex1@uci.edu
 
-💬 Discord: sharkiebyte (have had this username since I was 6 :P)
+💬 Discord: sharkiebyte 
 
 
 ***Ad astra, always and forever*** ✨✨
