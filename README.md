@@ -5,10 +5,11 @@ I'm a Computer Engineering student (Class of '28) at UC Irvine obsessed with the
 During my last internship in Japan, I built visualizations for computational fluid dynamics models at [Cardio Flow Design](https://cfd.life/en/) to help researchers tackle congenital heart diseases.
 
 ## Technical Skills
-- **Programming/Tools:** C/C++, C#, Python, STM32 HAL Drivers, Unity Engine
-- **Hardware/Embedded:** PCB Design & Debugging, MCUs (STM32), ADC, SPI/I²C/UART, Actuators / Sensors (e.g., IMUs, Motors)
-- **Robotics & Control**: Finite State Machines, Feedback Systems, Sensor Fusion
-
+- **Embedded Systems:** Microcontrollers (STM32), Serial Communications (SPI, I²C, UART), Sensor Integration
+- **Programming/Tools:** C/C++, C#, Python, Git
+- **Hardware & Debugging Tools:** PCB Design & Debugging, KiCad, Multimeter, Oscilloscope
+- **Controls:** FSMs, Motor Control, Feedback Systems, Motion Planning
+- 
 If it's mission-critical, I'll see it through.
 
 ## What I _was_ up to
