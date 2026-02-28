@@ -9,7 +9,7 @@ During my last internship in Japan, I built visualizations for computational flu
 - **Programming/Tools:** C/C++, C#, Python, Git
 - **Hardware & Debugging Tools:** PCB Design & Debugging, KiCad, Multimeter, Oscilloscope
 - **Controls:** FSMs, Motor Control, Feedback Systems, Motion Planning
-- 
+  
 If it's mission-critical, I'll see it through.
 
 ## What I _was_ up to
