@@ -1,8 +1,11 @@
-# **Hey, I'm Alex!** 🚀🤖
 
-I'm a Computer Engineering student (Class of '28) at UC Irvine obsessed with the intersection of software, hardware, autonomy, and human impact. My ultimate goal's to create tech that'll enable us starside, while empowering our lives earthside. I'm vectored toward the space industry, but anything that genuinely serves people gets me excited! 
+# **Hey, I'm Alex!** 
+
+I'm a Computer Engineering student (Class of '28) at UC Irvine obsessed with the intersection of software, hardware, autonomy, and human impact.  I’m drawn to tech that’ll enable us starside, but my ultimate goal is to empower life here on Earth. Anything that genuinely serves people gets me excited! 
 
 During my last internship in Japan, I built visualizations for computational fluid dynamics models at [Cardio Flow Design](https://cfd.life/en/) to help researchers tackle congenital heart diseases.
+
+I enjoy working with low-level details, but love system-level architecture - creating cohesive systems with emergent behaviors in mind. And I'm enthralled by the challenge of designing and tailoring systems to operate within extreme physical environments where failure isn’t an option.
 
 ## Technical Skills
 - **Embedded Systems:** Microcontrollers (STM32), Serial Communications (SPI, I²C, UART), Sensor Integration
@@ -12,29 +15,18 @@ During my last internship in Japan, I built visualizations for computational flu
   
 If it's mission-critical, I'll see it through.
 
-## What I _was_ up to
-This fall, I designed a mixed-signal ADC PCB for the [UCI Rocket Project Liquids'](https://www.rocket.eng.uci.edu/liquids/) DAQ 
-system. Once assembled and integrated this winter, it'll enable high-precision load cell measurements of **methalox rocket-engine thrust** and **recovery-parachute drag**.
+## What I've _been_ up to
+This Winter, I validated my mixed-signal ADC PCB for the [UCI Rocket Project Liquids'](https://www.rocket.eng.uci.edu/liquids/) DAQ system after extensive bring-up, bench testing, and debugging in the lab. The board enabled high-precision load cell measurements of **methalox rocket-engine thrust** during our most recent 5th Vertical Test Fire at the FAR site in the Mojave Desert!
 
-You can follow the project [here](https://github.com/UCI-Rocket-Project/rocket2-loadcell2.0-hardware). 
+You can see the project [here](https://github.com/UCI-Rocket-Project/rocket2-loadcell2.0-hardware). 
 
-The board's inspired by a legacy design, and features:
-- Improved Hardware-level Noise Filtering
-- Interfaces for Easier Accessibility (e.g., USB & Ethernet)
-- Reduced e-footprint (~10% lower cost)
-- "Cool aesthetic" (or so I've been told, would love to hear your thoughts!)
+The board was inspired by a legacy design, during bench tests and out in the desert it achieved:
+- Load measurement accuracy within ±10lb.
+- 50% reduction of peak-to-peak noise (From 40lb to 20lb).
+- Peak-to-peak fluctuation of 2% relative to expected thrust (1100lb).
 
 ## What I'm _currently_ up to
-Beyond spending time with familia and friends, I'm spending my winter break working on a self-balancing robot to level up my skills in:
-- Firmware
-- Electrical Circuits
-- Signals & Systems
-- Digital Signal Processing ⚡
-- Control Systems (and sensor fusion, my beloved)
-
-There's a nonzero chance this'll become a _battlebot_—I'm craving a return to the arena 😈
-
-Stay tuned ;]
+I'm working on migrating our avionics systems from GX-series connectors to D-Subminiature (D-Sub) connectors to enhance harness reliability and serviceability!
 
 ## Reach out to me!
 Feel free to reach out, I'm always down to chat :]
