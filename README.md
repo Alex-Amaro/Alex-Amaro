@@ -22,7 +22,7 @@ You can see the project [here](https://github.com/UCI-Rocket-Project/rocket2-loa
 
 The board was inspired by a legacy design, during bench tests and out in the desert it achieved:
 - Load measurement accuracy within ±10lb.
-- 50% reduction of peak-to-peak noise (From 40lb to 20lb).
+- 50% reduction of peak-to-peak noise (40lb → 20lb).
 - Peak-to-peak fluctuation of 2% relative to expected thrust (1100lb).
 
 ## What I'm _currently_ up to
