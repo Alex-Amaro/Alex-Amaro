@@ -11,7 +11,7 @@ During my last internship in Japan, I built visualizations for computational flu
 - **Hardware & Debugging Tools:** PCB Design & Debugging, KiCad, Multimeter, Oscilloscope, Signal Generator
 - **Controls:** FSMs, Motor Control, Feedback Systems, Motion Planning
 
-I enjoy working with low-level details, but love system-level architecture - creating cohesive systems with emergent behaviors in mind. And I'm enthralled by the challenge of designing and tailoring systems to operate within extreme physical environments where failure isn’t an option.
+I enjoy working with low-level details, but love system-level architecture - creating cohesive systems with emergent behaviors in mind. I'm enthralled by the challenge of designing and tailoring systems to operate within extreme physical environments where failure isn’t an option.
   
 If it's mission-critical, I'll see it through.
 
