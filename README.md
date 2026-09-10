@@ -2,7 +2,7 @@
 
 I’m a Computer Engineering student at the University of California, Irvine building embedded, autonomous, and intelligent physical systems.
 
-I enjoy working across the stack, from low-level firmware and PCB design to perception and autonomy pipelines. My work spans robotics, avionics, and scientific software, with a particular interest in inventing technologies that meaningfully interact with and improve the world around us.
+I enjoy working across the stack, from low-level firmware and PCB design to perception and autonomy pipelines. My work spans robotics, avionics, and simulation, with a particular interest in inventing technologies that meaningfully interact with and improve the world around us.
 
 ## Technical Interests
 - Intelligent Physical Systems 
